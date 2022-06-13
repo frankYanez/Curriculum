@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,700;1,500&display=swap');
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+h2 , h3 {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+aside {
+    max-width: 30%;
+    background-color: black;
+}
+
+.photo {
+    max-width: 100%;
+}
